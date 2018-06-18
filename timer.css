@@ -1,0 +1,32 @@
+body {
+  background: url(./img/swirl_pattern_transparent.png) repeat 0 0;
+}
+.centered-col {
+  float: none;
+  margin: 0 auto
+}
+
+.centered-col > h1 {
+  text-align: center;
+}
+
+#timer {
+  font-size: 300%;
+}
+
+.centered-col > button {
+  float: none;
+  margin: 0 auto;
+}
+
+.sub-button {
+  padding-top: 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Slab', serif;
+}
+
+p, div {
+  font-family: 'Roboto Slab', serif;
+}
